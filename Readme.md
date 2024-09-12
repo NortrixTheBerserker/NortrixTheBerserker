@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Unity, C#, C/C++, VR/AR/XR interaction**
 
-- 📫 How to reach me **jose.c.rodrigues@gmail.com**
+- 📫 How to reach me **jose.c.rodrigues (at) gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
