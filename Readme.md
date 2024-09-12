@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm José Rodrigues</h1>
-<h3 align="center">A passionate software developer and gaming fan, trying to merge my hobby and my professional life in one</h3>
+<h3 align="center">A passionate software developer and gaming fan, trying to merge my hobby and my professional life into one</h3>
 
 - 🔭 I’m currently working on **Not yet named personal project (mobile game)**
 
